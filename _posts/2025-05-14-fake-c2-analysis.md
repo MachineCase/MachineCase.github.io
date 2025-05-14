@@ -7,7 +7,7 @@ tags: [Go, malware, C2, reversing, macOS]
 
 In this post, we explore how to set up a **fake command and control (C2)** server to interact with a malware sample written in Go, targeting macOS.
 
-The sample connects to `2.56.246.203:5556` and expects specific commands such as:
+The sample connects to `1.1.1.1:5556` and expects specific commands such as:
 
 - `KILL`
 - `STOP`

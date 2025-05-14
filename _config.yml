@@ -93,7 +93,7 @@ theme_mode: dark
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: assets/img/avatar.png
+cdn: assets/img/logo/avatar.png
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
